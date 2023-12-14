@@ -1,2 +1,2 @@
 # .github
-Blackeye Remote Panel: observe, record, trust the system, not individuals.
+My Blackeye Remote Panel (Myberp) is a tool that literally means you can observe others. The software stores data, if necessary, about the user's actions and the information the computer sends to the server. With this tool, you can view and monitor the screen. It is designed for trust without the need to enter into agreements with others; you can trust the system completely instead of relying on an individual.
